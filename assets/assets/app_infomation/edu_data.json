@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "start": "2013-09-05",
+    "end": "2017-06-01",
+    "title": "Cử nhân công nghệ thông tin",
+    "organization": "Đại học bách khoa Hà Nội (HUST)"
+  },{
+    "id": 2,
+    "start": "2016-01-01",
+    "end": "2016-06-01",
+    "title": "Intern Android Developer",
+    "organization": "SUNNET COMPANY"
+  },{
+  "id": 3,
+  "start": "2016-06-01",
+  "end": "2017-09-01",
+  "title": "Intern Rails Developer",
+  "organization": "Framgia Việt nam"
+},
+  {
+    "id": 4,
+    "start": "2017-09-01",
+    "end": "2019-05-01",
+    "title": "iOS Developer employee",
+    "organization": "Framgia Việt nam (Sun* inc)"
+  },
+  {
+    "id": 5,
+    "start": "2022-09-01",
+    "end": "2023-12-01",
+    "title": "Trainer iOS",
+    "organization": "Techmaster Việt Nam"
+  },
+  {
+    "id": 6,
+    "start": "2019-05-01",
+    "end": "2024-04-31",
+    "title": "Team lead, Senior mobile developer (iOS, Flutter, React-native developer)",
+    "organization": "NEWWAVE SOLUTIONS JSC"
+  },
+  {
+    "id": 7,
+    "start": "2024-05-01",
+    "end": "2024-12-31",
+    "title": "Team lead, Senior mobile developer (Flutter developer)",
+    "organization": "Selex Motor JSC"
+  },
+  {
+    "id": 8,
+    "start": "2025-01-01",
+    "end": null,
+    "title": "Team lead, Senior mobile developer (Flutter developer)",
+    "organization": "2NF Software JSC"
+  }
+]

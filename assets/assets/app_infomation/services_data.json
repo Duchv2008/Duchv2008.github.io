@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "iOS Developer",
+    "desc": "5+ năm kinh nghiệm trong phát triển ứng dụng iOS bằng Swift"
+  },
+  {
+    "id": 2,
+    "title": "Flutter Developer",
+    "desc": "7+ năm kinh nghiệm trong phát triển ứng dụng mobile bằng Flutter từ những ngày đầu ra mắt Flutter bởi Google."
+  },
+  {
+    "id": 3,
+    "title": "Trainer",
+    "desc": "2+ năm kinh nghiệm giảng dạy iOS tại Techmaster"
+  },
+  {
+    "id": 4,
+    "title": "Freelancer",
+    "desc": "Thực hiện >5+ dự án Freelancer từ mobile cho tới Web, Back-end cũng như các dự án cá nhân"
+  },
+  {
+    "id": 5,
+    "title": "React-native",
+    "desc": "Có thể đảm nhiệm được các dự án React native"
+  },
+  {
+    "id": 6,
+    "title": "Rails",
+    "desc": "Có thể đảm nhiệm được các dự án"
+  },
+  {
+    "id": 7,
+    "title": "NodeJS",
+    "desc": "Có thể đảm nhiệm được các dự án"
+  }
+]

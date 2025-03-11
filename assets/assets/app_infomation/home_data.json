@@ -1,0 +1,16 @@
+{
+  "job": "Software Developer",
+  "hello": "Hello I'm",
+  "dev_name": "Hà Văn Đức",
+  "dev_desc": "Tôi là một mobile developer. Mong muốn của tôi có thể mang đến những dòng code chất lượng nhất đến cho khách hàng và vẫn đang trên con đường tìm tòi phát triển ứng dụng có ích cho người dùng.",
+  "cv_path": "assets/pdf/my_cv.pdf",
+  "avatar_path": "assets/images/my_avatar.jpg",
+  "fb": "fb://nhocbangchu95",
+  "twitter": "fb://nhocbangchu95",
+  "youtube": "fb://nhocbangchu95",
+  "linked_in": "fb://nhocbangchu95",
+  "exp_years": "7",
+  "project_count": "20",
+  "tech_count": "6",
+  "code_commit_count": "1000"
+}

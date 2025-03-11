@@ -1,0 +1,363 @@
+[
+  {
+    "id": 17,
+    "start": "2017-11-01",
+    "end": "2019-12-31",
+    "title": "iOS Developer",
+    "desc": "Phát triển một số phần mềm của công ty như Sync-up, Mobifone-Next and some other project.",
+    "organization": "Framgia Việt nam",
+    "tech_stack": [
+      "iOS",
+      "Swift"
+    ],
+    "position": "Developer",
+    "github": null,
+    "images": [
+      "assets/images/sync_up_1.webp",
+      "assets/images/sync_up_2.webp",
+      "assets/images/sync_up_3.webp"
+    ],
+    "team_size": 10,
+    "play_store": "https://play.google.com/store/apps/details?id=jp.syncup&hl=vi",
+    "apple_store": "https://apps.apple.com/us/app/sync-up-%E3%82%B7%E3%83%B3%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97/id1282333147",
+    "customer": "Nhật bản"
+  },
+  {
+    "id": 16,
+    "start": "2019-05-02",
+    "end": "2022-12-31",
+    "title": "MQLive - Ứng dụng livestream idol.",
+    "desc": "Dự án phát triển để cho phép các idol live stream trên nền tảng.",
+    "organization": "Newwave Solution JSC",
+    "tech_stack": [
+      "iOS",
+      "Swift",
+      "LiveStream"
+    ],
+    "position": "iOS Developer",
+    "github": null,
+    "images": [
+
+    ],
+    "team_size": 15,
+    "play_store": "https://play.google.com/store/apps/details?id=com.mercuryet.mqlive",
+    "apple_store": "https://apps.apple.com/us/app/mqlive/id1573718339?ign-itscg=30200&ign-itsct=apps_box_promote_link",
+    "customer": "Nhật bản"
+  },
+  {
+    "id": 15,
+    "start": "2019-05-02",
+    "end": "2022-12-31",
+    "title": "HFPlayer - Ứng dụng nghe nhạc",
+    "desc": "Maintain và phát triển tính năng mới",
+    "organization": "Newwave Solution JSC",
+    "tech_stack": [
+      "iOS",
+      "Swift",
+      "Objective-C"
+    ],
+    "position": "iOS Developer",
+    "github": null,
+    "images": [
+    ],
+    "team_size": 4,
+    "play_store": "https://play.google.com/store/apps/details?id=com.onkyo.jp.musicplayer&hl=en",
+    "apple_store": "https://apps.apple.com/vn/app/onkyo-hf-player/id704139896",
+    "customer": "Nhật bản"
+  },
+  {
+    "id": 14,
+    "start": "2019-05-02",
+    "end": "2022-12-31",
+    "title": "Orilab Market - Thiết kế áo thun",
+    "desc": "Maintain và phát triển tính năng mới",
+    "organization": "Newwave Solution JSC",
+    "tech_stack": [
+      "React-native"
+    ],
+    "position": "Developer",
+    "github": null,
+    "images": [
+    ],
+    "team_size": 4,
+    "play_store": "https://play.google.com/store/apps/details?id=jp.orilab.market&hl=en&gl=US",
+    "apple_store": "https://apps.apple.com/jp/app/id1581948629",
+    "customer": "Nhật bản"
+  },
+  {
+    "id": 13,
+    "start": "2019-05-02",
+    "end": "2022-12-31",
+    "title": "Kikyu - Thực hiện hoá ước mơ của bạn",
+    "desc": "Phát triển ứng dụng cho phép người dùng đăng tải dự định, ước mơ của họ và tìm kiếm ủng hộ từ cộng đồng.",
+    "organization": "Newwave Solution JSC",
+    "tech_stack": [
+      "React-native"
+    ],
+    "position": "Project Manager",
+    "github": null,
+    "images": [
+    ],
+    "team_size": 4,
+    "play_store": "https://play.google.com/store/apps/details?id=jp.bolster.kikyu",
+    "apple_store": "https://apps.apple.com/jp/app/%E6%AF%8E%E6%97%A5%E3%82%92%E5%BF%9C%E6%8F%B4%E3%81%97%E5%90%88%E3%81%86sns-kikyu/id1592630850",
+    "customer": "Nhật bản"
+  },{
+    "id": 8,
+    "start": "2019-05-02",
+    "end": "2022-12-31",
+    "title": "Smart school - Ứng dụng học tập",
+    "desc": "Maintain và phát triển ứng dụng học tập",
+    "organization": "Newwave Solution JSC",
+    "tech_stack": [
+      "Flutter"
+    ],
+    "position": "Supporter",
+    "github": null,
+    "images": [
+    ],
+    "team_size": 4,
+    "play_store": "https://play.google.com/store/apps/details?id=vn.flextech.elearning",
+    "apple_store": "https://apps.apple.com/vn/app/smartschool/id1576052324",
+    "customer": "Việt nam"
+  },{
+    "id": 9,
+    "start": "2019-10-02",
+    "end": "2020-10-31",
+    "title": "Quản lý bất động sản",
+    "desc": "Maintain và phát triển ứng dụng quản lý bất động sản trên sàn thương mại tập trung. Ứng dụng có 2 phiên bản. 1 Phiên bản phát triển bằng swift. 1 Phiên bản phát triển lại bằng Flutter.",
+    "organization": "Newwave Solution JSC",
+    "tech_stack": [
+      "Flutter",
+      "iOS",
+      "Google Map",
+      "Stringee"
+    ],
+    "position": "Developer",
+    "github": null,
+    "images": [
+    ],
+    "team_size": 30,
+    "play_store": null,
+    "apple_store": "https://apps.apple.com/kz/app/ihouzz-agent/id1573232222",
+    "customer": "Việt nam"
+  },
+  {
+    "id": 10,
+    "start": "2019-10-02",
+    "end": "2020-10-31",
+    "title": "Ứng dụng giúp việc",
+    "desc": "Phát triển ứng dụng giúp việc.",
+    "organization": "Newwave Solution JSC",
+    "tech_stack": [
+      "Flutter"
+    ],
+    "position": "Developer",
+    "github": null,
+    "images": [
+    ],
+    "team_size": 10,
+    "play_store": null,
+    "apple_store": null,
+    "customer": "Thị trường tiếng Anh"
+  },
+  {
+    "id": 11,
+    "start": "2020-12-01",
+    "end": "2021-03-01",
+    "title": "Doctor Link - Quản lý gara ô tô",
+    "desc": "Ứng dụng tích hợp iot để quản lý xe và gara sửa chữa ô tô",
+    "organization": "Newwave Solution JSC",
+    "tech_stack": [
+      "Flutter",
+      "iOT"
+    ],
+    "position": "Developer",
+    "github": null,
+    "images": [
+    ],
+    "team_size": 4,
+    "play_store": null,
+    "apple_store": null,
+    "customer": "Thị trường tiếng Anh"
+  },
+  {
+    "id": 12,
+    "start": "2021-03-01",
+    "end": "2022-03-01",
+    "title": "IDOL App - XG Official Fanclub",
+    "desc": "Hệ thống ứng dụng phục vụ cho các nhóm nhạc tại Nhật",
+    "organization": "Newwave Solution JSC",
+    "tech_stack": [
+      "Flutter",
+      "In-app purchase"
+    ],
+    "position": "Developer",
+    "github": null,
+    "images": [
+    ],
+    "team_size": 12,
+    "play_store": "https://play.google.com/store/apps/details?id=fan.pasch.xgalx&referrer=utm_source%3Dlp%26utm_medium%3Dbannar%26utm_campaign%3Dregular",
+    "apple_store": "https://apps.apple.com/nz/app/xg-official-fanclub-alphaz/id1597302854",
+    "customer": "Nhật bản"
+  },
+  {
+    "id": 13,
+    "start": "2021-03-01",
+    "end": "2022-03-01",
+    "title": "IDOL App - Da-iCE CUBE",
+    "desc": "Hệ thống ứng dụng phục vụ cho các nhóm nhạc tại Nhật",
+    "organization": "Newwave Solution JSC",
+    "tech_stack": [
+      "Flutter",
+      "In-app purchase"
+    ],
+    "position": "Developer",
+    "github": null,
+    "images": [
+    ],
+    "team_size": 12,
+    "play_store": "https://play.google.com/store/apps/details?id=fan.pasch.daice",
+    "apple_store": "https://apps.apple.com/nz/app/da-ice-cube/id1631510534",
+    "customer": "Nhật bản"
+  },
+  {
+    "id": 14,
+    "start": "2022-09-01",
+    "end": "2023-06-01",
+    "title": "Up-T Talk - Idol live stream in japanese (App Idol)",
+    "desc": "Ứng dụng live stream",
+    "organization": "Newwave Solution JSC",
+    "tech_stack": [
+      "Flutter",
+      "In-app purchase",
+      "Agora",
+      "Websocket"
+    ],
+    "position": "Project manager",
+    "github": null,
+    "images": [
+      "assets/images/upt-talk-1.jpg",
+      "assets/images/upt-talk-2.jpg",
+      "assets/images/upt-talk-3.jpg",
+      "assets/images/upt-talk-4.jpg"
+    ],
+    "team_size": 15,
+    "play_store": "https://play.google.com/store/apps/details?id=jp.maruiorimono.upt.talk&hl=en&gl=US",
+    "apple_store": "https://apps.apple.com/us/app/up-t-talk-%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88%E3%81%A8web%E3%81%A7%E7%89%B9%E5%85%B8%E4%BC%9A/id6443553469",
+    "customer": "Nhật bản"
+  },
+  {
+    "id": 15,
+    "start": "2022-09-01",
+    "end": "2023-06-01",
+    "title": "Up-T Talk - Idol live stream in japanese (App Fan)",
+    "desc": "Ứng dụng live stream",
+    "organization": "Newwave Solution JSC",
+    "tech_stack": [
+      "Flutter",
+      "In-app purchase",
+      "Agora",
+      "Websocket"
+    ],
+    "position": "Project manager",
+    "github": null,
+    "images": [
+      "assets/images/upt-talk-1.jpg",
+      "assets/images/upt-talk-2.jpg",
+      "assets/images/upt-talk-3.jpg",
+      "assets/images/upt-talk-4.jpg"
+    ],
+    "team_size": 15,
+    "play_store": "https://play.google.com/store/apps/details?id=jp.maruiorimono.upt.talk.idol&hl=en&gl=US",
+    "apple_store": "https://apps.apple.com/us/app/up-t-talent/id6444641726",
+    "customer": "Nhật bản"
+  },{
+    "id": 16,
+    "start": "2023-06-01",
+    "end": "2023-10-01",
+    "title": "Auction app - Users can post and sell old items",
+    "desc": "Tạo 2 ứng dụng Buyer và Seller cho phép mua bán đồ cũ",
+    "organization": "Newwave Solution JSC",
+    "tech_stack": [
+      "Flutter",
+      "In-app purchase",
+      "Websocket"
+    ],
+    "position": "Project manager",
+    "github": null,
+    "images": [
+
+    ],
+    "team_size": 15,
+    "play_store": null,
+    "apple_store": null,
+    "customer": "Nhật bản"
+  },
+  {
+    "id": 17,
+    "start": "2023-10-01",
+    "end": "2024-04-01",
+    "title": "Green Osaka management",
+    "desc": "Ứng dụng quản lý toà nhà",
+    "organization": "2NF Software JSC",
+    "tech_stack": [
+      "Flutter",
+      "Calendar",
+      "Dynamic form"
+    ],
+    "position": "Mobile lead",
+    "github": null,
+    "images": [
+
+    ],
+    "team_size": 13,
+    "play_store": null,
+    "apple_store": null,
+    "customer": "Nhật bản"
+  },
+  {
+    "id": 18,
+    "start": "2024-05-01",
+    "end": "2024-12-01",
+    "title": "Selex App",
+    "desc": "Hệ thống ứng dụng và CMS quản lý tài xế và hệ thông vận hành iOT của Selex Motor JSC",
+    "organization": "Selex Motor JSC",
+    "tech_stack": [
+      "Flutter",
+      "Flutter web",
+      "iOT"
+    ],
+    "position": "Mobile lead",
+    "github": null,
+    "images": [
+      "assets/images/selex_1.webp",
+      "assets/images/selex_2.webp",
+      "assets/images/selex_3.webp"
+    ],
+    "team_size": 10,
+    "play_store": null,
+    "apple_store": null,
+    "customer": "Việt nam"
+  },
+  {
+    "id": 19,
+    "start": "2025-01-01",
+    "end": null,
+    "title": "Contact",
+    "desc": "Hệ thống ứng dụng quản lý danh bạ cho ngân hàng",
+    "organization": "2NF Software JSC",
+    "tech_stack": [
+      "Flutter"
+    ],
+    "position": "Mobile lead",
+    "github": null,
+    "images": [
+
+    ],
+    "team_size": 7,
+    "play_store": null,
+    "apple_store": null,
+    "customer": "Nhật bản"
+  }
+]

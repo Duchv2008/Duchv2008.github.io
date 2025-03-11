@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "start": "2025-01-02",
+    "end": null,
+    "title": "Flutter Developer",
+    "company": "2NF Software"
+  },
+  {
+    "id": 2,
+    "start": "2019-05-02",
+    "end": "2024-05-30",
+    "title": "Mobile Developer",
+    "company": "Newwave Solution JSC"
+  },
+  {
+    "id": 3,
+    "start": "2024-05-30",
+    "end": "2024-12-31",
+    "title": "Mobile Developer",
+    "company": "Selex Motors Electric"
+  },
+  {
+    "id": 3,
+    "start": "2017-11-01",
+    "end": "2019-12-31",
+    "title": "iOS Developer",
+    "company": "Framgia Việt nam"
+  }
+]
